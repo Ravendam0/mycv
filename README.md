@@ -7,7 +7,12 @@ MyCV is a personal résumé website designed to present my profile professionall
 
 ## 🔧 Technologies Used
 - **HTML5**
+
+
 View this website
 https://cv.ci.co.ke/
+
+
+https://roadmap.sh/projects/single-page-cv
 
 
